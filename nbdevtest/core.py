@@ -27,6 +27,6 @@ def hello(name):
 
 
 # Cell
-def lang(name):
-    language = input("Which language do you speak? ")
+def lang(language):
+    #language = input("Which language do you speak? ")
     print("Okay, I'll try to learn ", language, "!", sep="")
