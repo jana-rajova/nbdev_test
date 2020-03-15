@@ -21,13 +21,10 @@ hello("Sylv")
 
 ```python
 lang("sy")
-
-
-
 ```
 
-    Which language do you speak? cbv
-    Okay, I'll try to learn cbv!
+    Which language do you speak? czech
+    Okay, I'll try to learn czech!
 
 
 Now let's look at our new class!
