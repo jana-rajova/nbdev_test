@@ -1,24 +1,43 @@
-# Project name here
-> Summary description here.
+# Welcome to nbev test
+> Here I create a few classes and a functions associated to them
 
 
-This file will become your README and also the index of your documentation.
+Have fun!
 
 ## Install
 
-`pip install your_project_name`
+`pip install nbdevtest`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
 ```python
-1+1
+hello("Sylv")
 ```
 
+    Hello Sylv
+
+
+```python
+lang("sy")
 
 
 
-    2
+```
 
+    Which language do you speak? cbv
+    Okay, I'll try to learn cbv!
+
+
+Now let's look at our new class!
+
+```python
+me = Jana()
+me.replicate(100)
+me.restart()
+```
+
+    There are now  1267650600228229401496703205376
+    We're back to 1 person
 
